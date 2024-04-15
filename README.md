@@ -1,7 +1,9 @@
 # Tax-Calculator
 This web application allows user to calculate their income tax.
 
+
 <html>
+  <h1>Here are some examples of tax calculations.</h1>
   <body>
     <div>
        <img src="https://github.com/Biswajit-edu/Tax-Calculator/assets/111083968/a928078a-a928-40bb-9662-21e8d5697190" width="500"/>
