@@ -188,7 +188,7 @@
     border: none;
     border-radius: 4px;
     cursor: pointer;
-    margin-top: 50px;
+    margin-top: 5vh;
     width: 25vw;
 }
 .justbox{
@@ -205,4 +205,16 @@
   text-align: center;
   box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
   z-index: -1;
+}
+
+@media screen and (min-width: 700px) {
+   .notification{
+     width: 550px;
+   }
+   .justbox{
+     width:450px;
+   }
+   #close-btn{
+     width:200px;
+   }
 }
